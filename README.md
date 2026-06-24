@@ -1,16 +1,25 @@
 ## Hi there 👋
+Computer Science Student at King Abdulaziz University.
 
-<!--
-**ElyasMazen/ElyasMazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in:
+- Software Development
+- Unity Game Development
+- Algorithms & Problem Solving
+- Cybersecurity
 
-Here are some ideas to get you started:
+Currently learning, building projects, and improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Java
+- #C
+- Unity
+- Adobe Photoshop
+  
+## Current Goals
+- Build more software projects
+- Learn advanced Unity development
+- Improve problem-solving skills
+- Contribute to open-source projects
+
+## Contact
+-Linkedin: https://www.linkedin.com/in/elyas-mazen-020142291/
